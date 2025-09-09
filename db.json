@@ -35,56 +35,5 @@
       "year": 2014
     }
   ],
-  "cart": [
-    {
-      "id": 6,
-      "name": "HP pavilion",
-      "year": 2024
-    },
-    {
-      "id": 6,
-      "name": "HP pavilion",
-      "year": 2024
-    },
-    {
-      "id": 7,
-      "name": "HP-635",
-      "year": 2014
-    },
-    {
-      "id": 6,
-      "name": "HP pavilion",
-      "year": 2024
-    },
-    {
-      "id": 6,
-      "name": "HP pavilion",
-      "year": 2024
-    },
-    {
-      "id": 7,
-      "name": "HP-635",
-      "year": 2014
-    },
-    {
-      "id": 7,
-      "name": "HP-635",
-      "year": 2014
-    },
-    {
-      "id": 3,
-      "name": "Iphone 11 ",
-      "year": 2022
-    },
-    {
-      "id": 3,
-      "name": "Iphone 11 ",
-      "year": 2022
-    },
-    {
-      "id": 4,
-      "name": "Iphone 13 Pro Max",
-      "year": 2024
-    }
-  ]
+  "cart": []
 }
